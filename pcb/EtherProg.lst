@@ -1,0 +1,17 @@
+EESchema (2011-nov-30)-testing  >> Creation date: Sat 12 May 2012 03:45:33 PM PDT
+
+#Cmp ( order = Value )
+| 100n         C1        
+| 100n         C2        
+| 3.6 V        D1        
+| 3.6 V        D2        
+| AVR-ISP-6    J2        
+| USB_2        J1        
+| JUMPER       JP1       
+| 68           R2        
+| 68           R3        
+| 1.5k         R1        
+| ATTINY85     U1        
+#End Cmp
+
+#End List

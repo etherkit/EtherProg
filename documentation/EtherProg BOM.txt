@@ -1,0 +1,30 @@
+EtherProg BOM
+Etherkit
+12 May 2012
+
+| Part (marking)                  | Qty  | Ref                            | P/N
+======================================================================================================
+Capacitors
+| 100n                              2      C1, C2        
+
+Diodes
+| 1N5227B (3.6V zener)              2      D1, D2        
+
+Connectors
+| AVR-ISP-6                         1      J2                               Molex 70287-1001 
+| USB B Jack                        1      J1                               FCI 61729-1011BLF       
+| 2x1 Jumper                        1      JP1                              
+| 2 pin Jumper Header               1                                       Kobiconn 151-8010-E
+
+Resistors & Trimmers (0.25 W, unless specified, tolerance band omitted below)
+| 68 (blue-grey-black-gold)         2      R2, R3       
+| 1.5k (brown-green-black-brown)    1      R1        
+
+ICs
+| ATTINY45                          1      U1        
+
+Miscellaneous
+| PCB
+| 2x3 Receptacle                    2                                       FCI 71600-006LF
+| 6-conductor flat cable (inches)   6                                       3M 3365/06-100SF
+| DIP-8 socket                      1                                       FCI DILB8P-223TLF

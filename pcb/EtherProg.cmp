@@ -1,0 +1,94 @@
+Cmp-Mod V01 Created by PcbNew date = Mon 05 Mar 2012 03:05:41 PM PST
+
+BeginCmp
+TimeStamp = /4F173EE2;
+Reference = C1;
+ValeurCmp = 100n;
+IdModule  = CAPACITOR2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F173ED7;
+Reference = C2;
+ValeurCmp = 100n;
+IdModule  = CAPACITOR2;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F172AD5;
+Reference = D1;
+ValeurCmp = 3.6_V;
+IdModule  = DIODE3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F172ACE;
+Reference = D2;
+ValeurCmp = 3.6_V;
+IdModule  = DIODE3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F402FE3;
+Reference = D3;
+ValeurCmp = Red;
+IdModule  = LED-3MM-NT7S;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F173B4C;
+Reference = J1;
+ValeurCmp = USB_2;
+IdModule  = USB-B-FCI-61729-1011BLF;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F17297B;
+Reference = J2;
+ValeurCmp = AVR-ISP-6;
+IdModule  = AVR-ISP-6-TH;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F17401A;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = PIN_ARRAY_2X1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F173ADB;
+Reference = R1;
+ValeurCmp = 1.5k;
+IdModule  = RESISTOR1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1737E7;
+Reference = R2;
+ValeurCmp = 68;
+IdModule  = RESISTOR1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1737DC;
+Reference = R3;
+ValeurCmp = 68;
+IdModule  = RESISTOR1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F402FF2;
+Reference = R4;
+ValeurCmp = 330;
+IdModule  = RESISTOR1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4F1772BD;
+Reference = U1;
+ValeurCmp = ATTINY85;
+IdModule  = DIP-8__300;
+EndCmp
+
+EndListe
